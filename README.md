@@ -1,6 +1,7 @@
 # Atomicorp rules for NGINX
 
-Downloads new ModSecurity Atomicorp (experimental) rules for nginx. 
+Downloads new ModSecurity Atomicorp (experimental) rules for nginx. The script downloads and validates the package. If all is fine then NGINX will be reloaded
+Please read the disclaimer and requirements before using this tool.
 
 ## Disclaimer
 ModSecurity for NGINX is in a very experimental state. Don't use it in a production environment! If you really want to use ModSecurity we
